@@ -1,0 +1,4 @@
+- 👋 olá, eu sou @SenhoritaZ
+- 👀 Estou interessada em aprender a programação novas linguagens
+- 🌱 Eu estou aprendendo a programar recentimente a linguagem de JavaScript e Scratch
+- 📫 Meu email de contato é Zavanluana@gmail.com.br
